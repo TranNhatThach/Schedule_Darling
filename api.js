@@ -1,5 +1,5 @@
 // api.js
-const API_URL = "http://localhost:5000/api/schedule"; // đổi URL khi deploy
+const API_URL = "https://ten-app.onrender.com/api/schedule"; // đổi URL khi deploy
 
 async function loadSchedule() {
     try {
